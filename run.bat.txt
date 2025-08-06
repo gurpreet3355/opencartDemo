@@ -1,0 +1,2 @@
+cd C:\Users\acer>cd C:\Users\acer\eclipse-workspace\opencartDemo
+mvn test

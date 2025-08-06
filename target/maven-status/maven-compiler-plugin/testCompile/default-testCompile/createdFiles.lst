@@ -1,0 +1,6 @@
+testCases\TC_001Registration.class
+PageObejects\Baseclass.class
+PageObejects\HomePage.class
+PageObejects\Registrationpage.class
+PageObejects\po_Registeration.class
+testCases\Baseclass.class
